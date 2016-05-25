@@ -1,0 +1,52 @@
+<html>
+<body>
+<table>
+<tr>
+<td>
+<form>
+
+
+<img src="download.jpg">
+<center-right>
+<button type="submit">SignIn</button>
+</center-right>
+
+
+<h1>Create your Google Account</h1>
+
+Name<br>
+<input type="text" placeholder="First">
+<input type="text" placeholder="Last"><br><br>
+Choose your user name<br>
+<input type="email" placeholder="@gmail.com"><br><br>
+
+Create a Password<br>
+<input type="text"><br><br>
+Birthday<br>
+<input type="date"><br><br>
+Gender<br>
+<input type="text" placeholder="I am.."><br><br>
+Mobile Phone<br>
+<input type="text"><br><br>
+Your Current email address<br>
+<input type="email"><br><br>
+Location<br>
+<!--<select>
+  <option value="volvo">--select--</option>
+  <option value="volvo">America</option>
+  <option value="volvo">Australia</option>
+  <option value="saab">China/option>
+  <option value="mercedes">India</option>
+  <option value="audi">Newyork</option>
+</select>-->
+<br><br><br>
+<input type="checkbox">I agree to the Google <a href="www.a.com">Terms of Service </a> and <a href="www.bcom">Privacy Policy</a>
+<br><br>
+<button type="submit">Continue</button> 
+
+</form>
+</td>
+</tr>
+</table>
+</body>
+</html>
